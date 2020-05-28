@@ -2,7 +2,7 @@
 _________________________________________
 
 ## open a terminal:
-#### `ctrl+\``
+#### ```  ctrl+` ```
 - Make sure it is a command prompt (cmd) and not powershell or something else
 
 ## update pip:
